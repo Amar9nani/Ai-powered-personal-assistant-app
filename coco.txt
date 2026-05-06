@@ -80,3 +80,4 @@ hair drier
 toothbrush
 hair dryer
 bench
+plant
