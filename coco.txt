@@ -78,3 +78,7 @@ scissors
 teddy bear
 hair drier
 toothbrush
+hair dryer
+bench
+plant
+baseball
